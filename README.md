@@ -1,7 +1,5 @@
 Calculadora de Preço Final
 
-Visão Geral
-
 Este programa em Java calcula o preço final de produtos ou serviços, aplicando os impostos adequados (IPI, ICMS e ISS) e adicionando uma margem de lucro. O programa diferencia entre produtos e serviços para garantir que os impostos corretos sejam aplicados.
 
 
